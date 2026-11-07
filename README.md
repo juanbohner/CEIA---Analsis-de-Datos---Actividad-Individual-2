@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Objetivos y Alcance del EDA
+## Objetivos y Alcance del EDA
 1. **Contexto Geográfico Real:** Localización precisa de las colonias reproductivas y de la estación Palmer mediante proyección sobre imagen satelital real de alta resolución (NASA / USGS / Esri).
 2. **Integridad y Datos Faltantes:** Evaluación sistemática de completitud y nulidad con la biblioteca `missingno` (mecanismo MCAR en medidas morfológicas).
 3. **Distribución Poblacional y Segregación Insular:** Análisis de composición y anidamiento por especie (*Adelie*, *Gentoo*, *Chinstrap*) e isla (*Torgersen*, *Dream*, *Biscoe*).
@@ -19,7 +19,7 @@
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 ```text
 .
 ├── actividad_Ind_2.ipynb     # Notebook interactivo completamente ejecutado con visualizaciones
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Requisitos e Instalación
+## Requisitos e Instalación
 Para ejecutar el notebook localmente, se recomienda Python 3.10+ y las siguientes librerías:
 
 ```bash
